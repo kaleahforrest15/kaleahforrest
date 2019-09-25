@@ -1,0 +1,17 @@
+html {
+  background-color: lightgreen;
+}
+/*Styles of tags*/
+
+
+/*Styles of classes*/
+
+h1{
+  border-style: double;
+   padding-top: 30px;
+   padding-right: 100px;
+   padding-bottom: 40px;
+   padding-left: 10px;
+}
+
+/*Styles of id's*/
